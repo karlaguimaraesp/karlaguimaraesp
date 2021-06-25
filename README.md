@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karlaguimaraesp
 - 👀 I’m interested in Data, Machine learning and IA
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python and R
 
 
 
